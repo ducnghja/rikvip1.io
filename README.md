@@ -1,1 +1,1 @@
-# rikvip1.io
+# rikvip1.github.io
